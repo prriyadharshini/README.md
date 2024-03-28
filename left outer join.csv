@@ -1,0 +1,11 @@
+F_NAME,L_NAME,DEPT_ID_DEP,DEP_NAME
+John,Thomas,2,"Architect Group"
+Alice,James,NULL,NULL
+Steve,Wells,5,"Software Group"
+Santosh,Kumar,5,"Software Group"
+Ahmed,Hussain,2,"Architect Group"
+Nancy,Allen,NULL,NULL
+Mary,Thomas,NULL,NULL
+Bharath,Gupta,7,"Design Team"
+Andrea,Jones,NULL,NULL
+Ann,Jacob,NULL,NULL
